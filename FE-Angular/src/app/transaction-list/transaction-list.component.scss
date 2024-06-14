@@ -1,0 +1,19 @@
+#transaction-list {
+    h1 {
+        text-align: center;
+        color: darkblue;
+    }
+
+    table {
+        min-width: 800px;
+        margin: 0 auto;
+        max-width: 800px;
+        border: 1px solid gray;
+
+        .view-dteail {
+            color: -webkit-link;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+    }
+}
